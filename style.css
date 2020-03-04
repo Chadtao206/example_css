@@ -1,0 +1,23 @@
+h1:hover {
+  text-align: center;
+}
+
+img {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+}
+
+#img2:hover {
+  display: none;
+}
+
+main {
+  position: absolute;
+  top: 500px;
+}
+
+p:hover {
+  font-family: cursive;
+  font-size: 20px;
+}
